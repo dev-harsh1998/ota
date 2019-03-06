@@ -1,0 +1,13 @@
+-> Changelog for 05-03-2019 :-
+
+* March Security Patch
+* All LineageOS upstream changes
+* Enabled -funroll-loops and -ffast-math for kernel
+* Overclocked GPU bus frequency
+* Fixed UI transition smoothness completely for once and all.
+* Tuned interactive target loads for minimal drain and best ux
+* Fixed bluetooth audio glithes happening on a few devices
+* Fixed kernel panic on screen off and pressing all 3 buttons together.
+
+-> Instructions.
+Once the update is installed give it sometime to settle and wait for the device to cool down, Then start using like normal.
