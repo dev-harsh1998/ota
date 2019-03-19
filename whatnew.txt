@@ -1,9 +1,11 @@
--> Changelog for 09-03-2019 :-
+-> Changelog for 16-03-2019 :-
 
-* March Security Patch
-* All LineageOS upstream changes
-* More fixes for UI stuttering
-* Fixed Manual network selection
+* Added auto face unlock on face match
+* Added back support for disabling Sim
+* Rotation Fixes
+* Binder backported form android kernel common 4.19
+* Performance fixes
+* All lineage upstream changes
 
 -> Instructions.
 Once the update is installed give it sometime to settle and wait for the device to cool down, Then start using like normal.
