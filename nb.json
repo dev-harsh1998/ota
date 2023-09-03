@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1673143267,
+      "datetime": 1693770957,
       "filename": "lineage-20.0-20230903-UNOFFICIAL-nabu.zip",
-      "id": "708ab8fddd1dbac350b6a164b2ed513146cf499f1d39efa0608891d850fda182",
+      "id": "2fc350aa0a69a0d0288d3c270b7974e9850c091180e11773301328957b9f52d9",
       "romtype": "UNOFFICIAL",
-      "size": 1876033331,
-      "url": "google.com",
+      "size": 1469670324,
+      "url": "https://dl.dropboxusercontent.com/scl/fi/97emdeoas5f81jgcygjp8/lineage-20.0-20230903-UNOFFICIAL-nabu.zip?rlkey=0nzvak9glip6qspacfh2pfc1k&dl=1",
       "version": "20.0"
     }
   ]
