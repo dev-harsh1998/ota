@@ -1,3 +1,14 @@
+### TIPS
+
+* Instructions below are for people flashing lineage for the first time, Old users should get OTA. (Highly recommended)
+* Old users can also use Local update option from inside of the Updater App in system settings to manually import the package.
+
+#### Rare
+* Very old lineage users (Who don't recieve ota or don't have option for local update) can force the OTA on old lineage build by executing the below command in shell (These lineage builds ship with KernelSU).
+
+`setprop lineage.updater.uri https://raw.githubusercontent.com/dev-harsh1998/ota/master/nb.json`
+> Once executed check for update in lineage updater app to get ota
+
 ### Flashing nabu via recovery mode.
 
 > This guide assumes you know what you are doing and you have latest platform tools installed along with drivers.
@@ -45,4 +56,4 @@
 * On the host machine, sideload the package using: adb sideload filename.zip.
 > Normally, adb will report Total xfer: 1.00x, but in some cases, even if the process succeeds the output will stop at 47% and report adb: failed to read command: Success. In some cases it will report adb: failed to read command: No error or adb: failed to read command: Undefined error: 0 which is fine.
 
-If there are no errors in the recovery screen ad everything looks good selecting reboot from the main menu should allow you to boot into LineageOS.
+If there are no errors in the recovery screen and everything looks good selecting reboot from the main menu should allow you to boot into LineageOS.
