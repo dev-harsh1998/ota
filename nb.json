@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1699941979,
-      "filename": "lineage-20.0-20231114-UNOFFICIAL-nabu.zip",
-      "id": "0306e65809aeb29ecec028b8350979386e29e765757888a2d838e8e5b652e818",
+      "datetime": 1699960889,
+      "filename": "lineage-20.0-20231114-UNOFFICIAL-HARSH-nabu.zip",
+      "id": "4daf229c65288282fbb2404d154ab4e2e87a3b9507756f93de46dcb651b18c84",
       "romtype": "UNOFFICIAL",
-      "size": 1508099025,
-      "url": "https://github.com/dev-harsh1998/ota/releases/download/v1.2.0-EOL/lineage-20.0-20231114-UNOFFICIAL-nabu.zip",
+      "size": 1507994639,
+      "url": "https://github.com/dev-harsh1998/ota/releases/download/v1.2.0-EOL/lineage-20.0-20231114-UNOFFICIAL-HARSH-nabu.zip",
       "version": "20.0"
     }
   ]
