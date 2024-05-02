@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1710779489,
-      "filename": "lineage-21.0-20240318-UNOFFICIAL-nabu.zip",
-      "id": "5dbb44ef7ae757f4c81b99862baa82e3837401bdb940fc2ab4c8dbe1beba8bea",
+      "datetime": 1714561018,
+      "filename": "lineage-21.0-20240501-UNOFFICIAL-nabu.zip",
+      "id": "13bbc9850db490f443fea286b0aac25ff19d57a2156a0f0442d46242caa9d642",
       "romtype": "UNOFFICIAL",
-      "size": 1329417141,
-      "url": "https://github.com/dev-harsh1998/ota/releases/download/1.2.5-A14-Beta/lineage-21.0-20240318-UNOFFICIAL-nabu.zip",
+      "size": 1351128616,
+      "url": "https://github.com/dev-harsh1998/ota/releases/download/1.2.6-lineage-qpr2-alpha/lineage-21.0-20240501-UNOFFICIAL-nabu.zip",
       "version": "21.0"
     }
   ]
