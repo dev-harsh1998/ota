@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1727929827,
-      "filename": "lineage-21.0-20241003-UNOFFICIAL-nabu.zip",
-      "id": "6143989e27dd378ddb4b448a78711022ce425b363b67f10a0f5140c32b52d757",
+      "datetime": 1729473265,
+      "filename": "lineage-21.0-20241021-UNOFFICIAL-nabu.zip",
+      "id": "ba5b896bbdc254d249423bdadcf339f62ef61bedd514162f8e7d912fc2dee466",
       "romtype": "UNOFFICIAL",
-      "size": 1528376619,
-      "url": "https://github.com/dev-harsh1998/ota/releases/download/v1.3.2-Lineage-21-QPR3-Final/lineage-21.0-20241003-UNOFFICIAL-nabu.zip",
+      "size": 1537140915,
+      "url": "https://github.com/dev-harsh1998/ota/releases/download/v1.3.3-LineageOS-21-QPR3-SEC-OCT/lineage-21.0-20241021-UNOFFICIAL-nabu.zip",
       "version": "21.0"
     }
   ]
